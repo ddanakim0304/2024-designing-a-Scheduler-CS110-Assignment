@@ -10,3 +10,9 @@ This project implements a scheduler that efficiently manages tasks with various 
 - **Fixed-Time and Non-Fixed-Time Tasks**: Handles tasks with both specified start times and flexible schedules.
 - **Priority Queue Implementation**: Utilizes max heaps to manage and prioritize tasks.
 - **Utility-Based Scheduling**: Calculates utility scores to determine the order of non-fixed-time tasks.
+
+
+### File Structure
+- `Scheduler(with explanation).ipynb`: Jupyter notebook with a full explanation of the algorithm, data structure, test cases, and evaluation.
+- `max-heap(code only).py`: Python code for the maximum heap implementation.
+- `Scheduler(code only).py`: Python code for the implementation of the scheduler and the priority queue.
